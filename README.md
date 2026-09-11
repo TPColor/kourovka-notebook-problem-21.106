@@ -6,7 +6,7 @@ explanation later i gotta sleep
 
 Install Lean 4.33.1, and from your directory run in powershell:
 
-```sh
+```powershell
 lake build
 ```
 
