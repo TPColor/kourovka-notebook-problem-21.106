@@ -13,7 +13,7 @@ They are defined as follows:
 
 Define the centrality predicate
 `Cent(y) = ∀t (yt=ty)`.<br>
-The formula is
+The formula is<br>
 `φ(x) := ∃ab ([a,b]=x  ∧  ∀y (Cent(y)  ⇒  ∃cd ([a,c]=y ∧ [b,c]=1 ∧ [b,d]=y ∧ [a,d]=1)))`.<br>
 The group is simply the Heisenberg group, which is `G = ℤ^3` endowed with multiplication<br>
 `(p,q,r)(s,t,u) = (p+s, q+t, r+u+pt)`.
