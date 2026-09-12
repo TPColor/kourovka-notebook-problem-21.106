@@ -12,17 +12,17 @@ Our answer to this question is no, and we provide a counterexample of a formula 
 They are defined as follows:
 
 Define the centrality predicate
-`Cent(y) = ∀t (yt=ty)`.
+`Cent(y) = ∀t (yt=ty)`.<br>
 The formula is
-`φ(x) := ∃ab ([a,b]=x  ∧  ∀y (Cent(y)  ⇒  ∃cd ([a,c]=y ∧ [b,c]=1 ∧ [b,d]=y ∧ [a,d]=1)))`.
-The group is simply the Heisenberg group, which is `G = ℤ^3` endowed with multiplication
+`φ(x) := ∃ab ([a,b]=x  ∧  ∀y (Cent(y)  ⇒  ∃cd ([a,c]=y ∧ [b,c]=1 ∧ [b,d]=y ∧ [a,d]=1)))`.<br>
+The group is simply the Heisenberg group, which is `G = ℤ^3` endowed with multiplication<br>
 `(p,q,r)(s,t,u) = (p+s, q+t, r+u+pt)`.
 
 We plan to publish a human-readable preprint of the proof of this counterexample on arXiv once we get endorsed for math.GR (group theory).
 
 # Lean Structure
 
-`KourovkaProblem.lean`: where the statement is defined in its entirety, and where the negation is stated as a theorem
+`KourovkaProblem.lean`: where the statement is defined in its entirety, and where the negation is stated as a theorem<br>
 `Proof.lean`: the proof that the above construction is indeed a counterexample
 
 # Instructions
