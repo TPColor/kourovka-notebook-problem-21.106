@@ -18,7 +18,7 @@ The formula is
 The group is simply the Heisenberg group, which is `G = ℤ^3` endowed with multiplication
 `(p,q,r)(s,t,u) = (p+s, q+t, r+u+pt)`.
 
-We plan to publish a human-readable preprint of the proof of this counterexample on arXiv.
+We plan to publish a human-readable preprint of the proof of this counterexample on arXiv once we get endorsed for math.GR (group theory).
 
 # Lean Structure
 
