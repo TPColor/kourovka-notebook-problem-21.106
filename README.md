@@ -37,5 +37,5 @@ The build completed successfully under Lean 4.33.1 in our session. There are no 
 
 # Credits
 
-Lily Zhang: coming up with the original counterexample, the proof, and the later arXiv preprint.
+Lily Zhang: coming up with the original counterexample, the proof, and the later arXiv preprint.<br>
 Evan Li: suggesting the Heisenberg group to simplify the proof
