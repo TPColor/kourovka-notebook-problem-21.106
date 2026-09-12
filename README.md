@@ -1,6 +1,6 @@
 # kourovka-notebook-problem-21.106
 
-We resolve a problem posed in `Unsolved Problems in Group Theory. The Kourovka Notebook`, which has arXiv link https://arxiv.org/abs/1401.0300.
+We resolve a problem posed in `Unsolved Problems in Group Theory. The Kourovka Notebook`, arXiv link https://arxiv.org/abs/1401.0300.
 
 Problem 21.106, posed by M. Petschick, asks the following:
 
