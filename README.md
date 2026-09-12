@@ -1,6 +1,6 @@
 # kourovka-notebook-problem-21.106
 
-We resolve a problem posed in `Unsolved Problems in Group Theory. The Kourovka Notebook`, which has arXiv link https://arxiv.org/abs/1401.0300.
+We resolve a problem posed in `Unsolved Problems in Group Theory. The Kourovka Notebook` with arXiv link https://arxiv.org/abs/1401.0300.
 
 Problem 21.106, posed by M. Petschick, asks the following:
 
@@ -34,3 +34,8 @@ lake build
 ```
 
 The build completed successfully under Lean 4.33.1 in our session. There are no `sorry`, `admit`, `native_decide`, nor user-created axioms.
+
+# Credits
+
+Lily Zhang: coming up with the formula, the proof, and the later arXiv preprint.
+Evan Li: suggesting the Heisenberg group to simplify the proof
