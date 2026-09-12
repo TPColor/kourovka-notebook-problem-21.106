@@ -114,8 +114,7 @@ def ResiduallyFiniteGroups : GroupClass.{u} :=
 /--
 Kourovka Notebook Problem 21.106:
 
-"Is every formula with one free variable concise in the class of
-residually finite groups?"
+"Is every formula with one free variable concise in the class of residually finite groups?"
 -/
 def kourovka_21_106 : Prop :=
   ∀ φ : FormulaWithOneFreeVariable,
